@@ -67,19 +67,17 @@ header {
 .nav-list {
     background: rgb(155, 163, 126);
     padding: .5rem 0;
-    display: flex;
+    /*display: flex;*/
     flex-direction: column;
     justify-content:flex-start;
-    /*align-items: center;*/
-  }
+     }
  
   .nav-item {
-    /*list-style: none;*/
-    margin-top: 10px;
+       margin-top: 10px;
   }
  
   .nav-item a {
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-decoration: none;
     letter-spacing: 2px;
     margin-bottom: 100px;
