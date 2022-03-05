@@ -58,7 +58,7 @@ header {
     font-size: 3.5rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 320px) and (max-width: 480px) {
   #club-name {
     font-size: 2rem;
     text-align: center;
